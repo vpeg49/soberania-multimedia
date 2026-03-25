@@ -13,7 +13,7 @@ No internet required, no subscriptions, total privacy.
 
 | Item | Value |
 |---|---|
-| Server | Ubuntu (paul@paul-Precision-7510) |
+| Server | Ubuntu |
 | IP | 192.168.1.77 (static) |
 | Port | 8096 |
 | Docker | 28.2.2 |
@@ -24,7 +24,6 @@ No internet required, no subscriptions, total privacy.
 | Item | Value |
 |---|---|
 | Drive | Seagate Backup Plus 4.5TB |
-| Mount | /mnt/usb-Seagate_BUP_Portable_00000000NABAFQXH-0:0-part2 |
 | Symlink | /mnt/biblioteca -> _biblioteca/ |
 | Movies | 246 |
 
