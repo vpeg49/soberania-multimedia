@@ -1,0 +1,19 @@
+{
+  "name": "soberania-multimedia",
+  "version": "1.0.0",
+  "description": "Local media server for personal movie collection. No internet required, no subscriptions, total privacy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "letterboxd-dry": "DRY_RUN=true node scripts/letterboxd-sync.js",
+    "letterboxd-apply": "DRY_RUN=false node scripts/letterboxd-sync.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^6.2.1",
+    "dotenv": "^17.3.1"
+  },
+  "type": "module"
+}
